@@ -1,0 +1,17 @@
+# Attendance Calculator
+
+This is a simple web project to calculate subject-wise attendance percentage.
+
+## Features
+- Add multiple subjects
+- Enter total and attended classes
+- Automatically shows attendance status (Safe/Unsafe)
+
+## Tech Used
+- HTML
+- CSS
+- JavaScript
+
+## Future Plans
+- Add data storage
+- Export report as PDF
